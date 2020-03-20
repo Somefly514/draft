@@ -1,0 +1,23 @@
+{
+  "name": "draft",
+  "version": "0.1.0",
+  "description": "一個測試用draft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Somefly514@github.com/Somefly514/draft.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Somefly514",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Somefly514/draft/issues"
+  },
+  "homepage": "https://github.com/Somefly514/draft#readme"
+  
+}
