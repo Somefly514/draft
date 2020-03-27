@@ -4,6 +4,7 @@
   "description": "一個測試用draft",
   "main": "index.js",
   "scripts": {
+	"build": "rollup -c && cp ./out/* ./htdocs/js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
